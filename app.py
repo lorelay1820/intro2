@@ -12,7 +12,7 @@ st.image(image, caption="Silvestre y Piolín")
 
 
 texto = st.text_input("Escribe algo", "este es mi text")
-st.write("el texto escrito es", texto
+st.write("el texto escrito es", texto)
 
 st.subheader("ahora usemos 2 columnas")
       
