@@ -23,8 +23,8 @@ with col1:
       if resp:
             st.write("Correcto")
 
-with col2
+with col2:
 st.subheader("Esta es la segunda coulumna")
 modo = st.radio("Que Modalidad es la principal en tu interfaz" , ("Visual"," auditiva","Táctil"))
-if modo =="Visual";
+if modo =="Visual":
       st.write("La vista es fundamental para tu interfaz")
