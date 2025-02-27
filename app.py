@@ -15,6 +15,7 @@ texto = st.text_input("Escribe algo", "Lorexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 st.write("el texto escrito es", texto)
 
 st.subheader("ahora usemos 2 columnas")
+col1,col2 = st.columns(2)
 
 with col1:
       st.subheader("Esta es la primera columna")
