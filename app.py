@@ -8,7 +8,7 @@ st.write("Facilmente puedo realizar backend y frontend")
 
 image = Image.open ("silvestre.png")
 
-st.image(image, caption="piolin")
+st.image(image, caption="Silvestre y Piolín")
 
 
 
